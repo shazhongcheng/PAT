@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550825804 source:d:\documents\project\c\test\pat1042\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

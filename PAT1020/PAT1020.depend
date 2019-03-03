@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550392082 source:d:\documents\project\c\test\pat1020\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+
